@@ -1,2 +1,2 @@
 # HelloWorld
-Short program
+This is my first GitHub repository
